@@ -19,7 +19,6 @@ namespace QuantumIncidentResponse {
             // Return a successful result
             return Zero;
         }
-
         // Define a method for detecting incidents
         public operation DetectIncident() : Result {
             // Use a quantum algorithm to detect incidents
